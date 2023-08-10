@@ -1,0 +1,29 @@
+{
+  "cover_image_path": "/data/cover/xl_avenger-endgame.jpg",
+  "title": "Avengers: Endgame",
+  "year": 2019,
+  "genre": ["Action", "Adventure", "Sci-Fi"],
+  "director": "Anthony Russo, Joe Russo",
+  "writers": ["Christopher Markus", "Stephen McFeely"],
+  "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Don Cheadle", "Paul Rudd", "Benedict Cumberbatch", "Chadwick Boseman", "Brie Larson", "Tom Holland", "Karen Gillan", "Zoe Saldana", "Evangeline Lilly", "Tessa Thompson", "Rene Russo", "Elizabeth Olsen", "Anthony Mackie", "Sebastian Stan", "Tom Hiddleston", "Danai Gurira", "Benedict Wong", "Pom Klementieff", "Dave Bautista", "Letitia Wright", "John Slattery", "Tilda Swinton", "Jon Favreau", "Hayley Atwell", "Natalie Portman", "Marisa Tomei", "Taika Waititi", "Angela Bassett", "Michael Douglas", "Michelle Pfeiffer", "William Hurt", "Cobie Smulders", "Sean Gunn", "Winston Duke", "Linda Cardellini", "Maximiliano Hernández", "Frank Grillo", "Hiroyuki Sanada", "Tom Vaughan-Lawlor", "James D'Arcy", "Jacob Batalon", "Vin Diesel", "Bradley Cooper", "Gwyneth Paltrow", "Robert Redford", "Josh Brolin"],
+  "plot": "The Avengers assemble once more in order to undo Thanos' actions and restore balance to the universe.",
+  "poster": "https://example.com/posters/avengers_endgame.jpg",
+  "runtime": 181,
+  "rating": 8.4,
+  "votes": 920624,
+  "imdbId": "tt4154796",
+  "production": "Marvel Studios",
+  "website": "https://www.marvel.com/movies/avengers-endgame",
+  "awards": [
+    {
+      "name": "Academy Awards",
+      "category": "Best Visual Effects",
+      "year": 2020
+    },
+    {
+      "name": "MTV Movie + TV Awards",
+      "category": "Best Movie",
+      "year": 2020
+    }
+  ]
+}
